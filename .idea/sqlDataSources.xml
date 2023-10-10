@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="c55fd94e-001d-42c7-ba18-5fd3bae9be2b" name="internet_shop Mapping">
+      <data-sources db="cb2ddd4a-2a09-4af1-8e58-176aed8b22e7" ddl="3118390d-65e6-4104-869f-8c72a62e591e" />
+      <scope>
+        <node kind="database" negative="1" />
+      </scope>
+    </mapping>
+    <mapping uuid="0625ae65-5989-42e1-9a39-793765cc3c59" name="internet_shop Mapping [2]">
+      <data-sources db="7056e68e-64fa-4d15-861b-25ebb5e278f5" ddl="4486b066-b75a-4677-9a8b-de026a1b23cd" />
+    </mapping>
+  </component>
+</project>
